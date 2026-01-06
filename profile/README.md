@@ -1,3 +1,5 @@
-# Weav...
+# Weav
 
-## Weav is a mobile App related to the fashion industry
+www.weavapp.com
+
+## Weav is a fashion-focused social network. 
